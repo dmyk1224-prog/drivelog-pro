@@ -1,0 +1,23 @@
+{
+  "name": "運転日報システム Pro",
+  "short_name": "DriveLog",
+  "description": "スマホ1台で完結する運転日報システム",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#2563eb",
+  "orientation": "portrait",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
